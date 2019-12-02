@@ -1,0 +1,3 @@
+/home/kodachi/CLionProjects/Hello-World/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kodachi/CLionProjects/Hello-World/cmake-build-debug/CMakeFiles/Hello_World.dir
+/home/kodachi/CLionProjects/Hello-World/cmake-build-debug/CMakeFiles/edit_cache.dir

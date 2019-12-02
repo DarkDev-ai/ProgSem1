@@ -1,0 +1,3 @@
+/home/kodachi/CLionProjects/Currency/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kodachi/CLionProjects/Currency/cmake-build-debug/CMakeFiles/Currency.dir
+/home/kodachi/CLionProjects/Currency/cmake-build-debug/CMakeFiles/edit_cache.dir
